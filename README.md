@@ -34,5 +34,8 @@ Baseline results for different modeles. Models were run on Scikit Learn -0.20.0.
 | KNN  | 317.31  | -3.57  |
  
 
- 
+ ## Authors 
+ Abhor Gupta 
+ Ashitabh Misra 
+ Rohit Kar 
  
